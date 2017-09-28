@@ -4,6 +4,8 @@ Week 6 HW
 Description: 
 In this assignment, I used the GIPHY API to make a dynamic web page that populates with gifs of my choice
 
+See the link here: 
+https://jandeguzman.github.io/GifTastic/
 
 Author:
 Janna de Guzman
