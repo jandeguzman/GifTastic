@@ -1,0 +1,25 @@
+body {
+  background-image: url("../images/bg.png");
+  text-align: center;
+}
+
+.jumbotron {
+	padding: 15px;
+}
+
+button {
+	margin: 8px;
+}
+
+img {
+    margin:10px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-style: solid;
+}
+
+
+.imgContainer {
+    float: left;
+}
